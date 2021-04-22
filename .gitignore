@@ -1,0 +1,11 @@
+
+# Ignore vscode configa file
+.vscode/
+
+# Ingnore dolphin configs file
+.directory
+
+.debug
+
+!.gitignore
+
